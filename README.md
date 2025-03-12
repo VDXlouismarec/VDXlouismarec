@@ -48,7 +48,7 @@
 
 ## ❤️ Contactez-moi:
 
-<p><a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/marec-louis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/github?style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a>
+<p><a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"  height="30px"/></a> </a> <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> <a href="https://github.com/Toastaspiring" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
 </p>
 
 ## 📊 Mon Data GitHub:
